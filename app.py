@@ -11,7 +11,7 @@ CORS(app)  # Autorise ton frontend à appeler cette API
 
 # --- CONFIGURATION RENDER ---
 # ⚠️ IMPORTANT : après ton premier déploiement, remplace cette URL par celle que Render t'affiche !
-RENDER_EXTERNAL_URL = "https://VOTRE-APP-NAME.onrender.com"
+RENDER_EXTERNAL_URL = "https://jobpulse-helper.onrender.com"
 
 
 def keep_alive():
